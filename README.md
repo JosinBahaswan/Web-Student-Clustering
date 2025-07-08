@@ -80,7 +80,7 @@ Aplikasi akan mengelompokkan siswa menjadi beberapa kategori:
 ## 📁 Struktur File
 
 ```
-├── app.py              # Aplikasi Streamlit utama
+├── main.py              # Aplikasi Streamlit utama
 ├── requirements.txt    # Dependencies Python
 ├── dataset.csv         # Dataset siswa
 └── README.md          # Dokumentasi ini
